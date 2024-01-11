@@ -1,0 +1,1 @@
+const String noPath = 'No path';
